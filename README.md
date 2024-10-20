@@ -1,0 +1,1 @@
+Trying to manage poker notes with obsidian.
