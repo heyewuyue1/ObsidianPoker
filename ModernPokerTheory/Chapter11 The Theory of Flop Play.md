@@ -11,4 +11,16 @@
 
 ## 翻牌分类模式
 
+### 点数结构
 
+- Trips：三条
+- Paired：叠牌
+- Unpaired
+
+### 花色结构
+
+- Monotone：三张同样花色
+- Two-tone：两种花色
+- Rainbow：三种花色
+
+![[Pasted image 20241020205509.png]]
