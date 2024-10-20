@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "df2f876e04ff450e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,9 +188,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4e2fafb30f0148c6",
+  "active": "df2f876e04ff450e",
   "lastOpenFiles": [
-    "ModernPokerTheory",
-    "README.md"
+    "README.md",
+    "未命名.md",
+    "ModernPokerTheory"
   ]
 }
